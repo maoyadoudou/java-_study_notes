@@ -1,4 +1,4 @@
-# java-_study_notes
+# java_study_notes
 记录Java知识点
 # 创建原因
 学习了Javaweb基础以及相关知识（前端、数据库）后，发现知识点有些零碎分散，所以决定在github上建立一个仓库用于记录学习笔记，为以后回顾使用。
